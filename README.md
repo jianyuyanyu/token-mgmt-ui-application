@@ -17,6 +17,7 @@ An ASP.NET Core web application authenticates using OpenID Connect and OpenIddic
 
 ## History
 
+- 2025-12-01 .NET 10
 - 2025-09-27 Updates packages
 - 2025-08-01 Updates packages
 
